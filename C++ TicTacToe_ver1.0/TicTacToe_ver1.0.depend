@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1548586271 source:c:\users\itsur\documents\programming projects\c++\win 32 gui\tictactoe_ver1.0\main.cpp
+	"main_Class.h"
+
+1548528627 c:\users\itsur\documents\programming projects\c++\win 32 gui\tictactoe_ver1.0\main_functions.cpp
+	<iostream>
+
+1548586444 source:c:\users\itsur\documents\programming projects\c++\win 32 gui\tictactoe_ver1.0\main_functions.cpp
+	"main_Class.h"
+
+1548585816 c:\users\itsur\documents\programming projects\c++\win 32 gui\tictactoe_ver1.0\main_class.h
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<limits>
+	"stdlib.h"
+
+1548586271 source:e:\documents\programming projects\c&c++\tictactoe_ver1.0\main.cpp
+	"main_Class.h"
+
+1548585816 e:\documents\programming projects\c&c++\tictactoe_ver1.0\main_class.h
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<limits>
+	"stdlib.h"
+
+1562144634 source:e:\documents\programming projects\c&c++\tictactoe_ver1.0\main_functions.cpp
+	"main_Class.h"
+
+1548586271 source:e:\documents\programming projects\c&c++\c++\tictactoe_ver1.0\main.cpp
+	"main_Class.h"
+
+1548585816 e:\documents\programming projects\c&c++\c++\tictactoe_ver1.0\main_class.h
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<limits>
+	"stdlib.h"
+
+1562144634 source:e:\documents\programming projects\c&c++\c++\tictactoe_ver1.0\main_functions.cpp
+	"main_Class.h"
+
